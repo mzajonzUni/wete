@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Vanilla Extract';
+    src: url('VanillaExtractRegular.woff2') format('woff2'),
+        url('VanillaExtractRegular.woff') format('woff'),
+        url('VanillaExtractRegular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
